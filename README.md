@@ -41,6 +41,6 @@
 
 |               Авторизация               |          Главный экран / профиль          |                   Избранное                   |
 | :-------------------------------------: | :---------------------------------------: | :-------------------------------------------: |
-| ![Авторизация](/Users/tatyananovichikhina/Downloads/Vnavigate-main/READMEAssets)| ![Главный экран / профиль]() | ![Избранное]() |
+| ![Авторизация](https://github.com/EvgeniyStafeev/DiplomNetology/blob/main/READMEAssets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202023-09-01%20at%2017.45.32.png)| ![Главный экран / профиль]() | ![Избранное]() |
 # DiplomNetology
 # DiplomNetology
